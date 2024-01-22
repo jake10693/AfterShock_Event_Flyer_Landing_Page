@@ -4,6 +4,8 @@
 
 * [Description](#description)
 
+* [DeployedLink](#deployedLink)
+
 * [Screenshots](#screenshots)
 
 * [Credits](#credits)
@@ -14,6 +16,10 @@
 
 ## Description
 This is a landing page used to navigate info and content about the upcoming Aftershock music festival which is being held in Sacramento, CA this year (2024) from 10/10 - 10/13
+
+
+## DeployedLink
+
 
 
 ## Screenshots
