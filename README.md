@@ -19,7 +19,7 @@ This is a landing page used to navigate info and content about the upcoming Afte
 
 
 ## DeployedLink
-
+https://jake10693.github.io/AfterShock_Event_Flyer_Landing_Page/
 
 
 ## Screenshots
